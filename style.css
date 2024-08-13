@@ -1,0 +1,12 @@
+@font-face {
+    font-family: press_start_2p;
+    src: url(assets/PressStart2P.ttf);
+}
+
+h1 {
+    font-family: press_start_2p;
+}
+
+#bodyofcard {
+    background-color: #daf1b8;
+}
